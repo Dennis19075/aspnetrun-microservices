@@ -1,7 +1,7 @@
 ﻿using System;
-using Discount.API.Entities;
+using Discount.Grpc.Entities;
 
-namespace Discount.API.Repositories
+namespace Discount.Grpc.Repositories
 {
 	public interface IDiscountRepository
 	{
